@@ -1,7 +1,7 @@
 # Pasos para la Conexion-a-la-API
 Para instalar con archivos hechos
 Py -m venv env - Creacion del entorno
-.\env\Scripts\Activate - 
+.\env\Scripts\Activate
 Pip install -r requirements.txt -instalacion de las librerias
 Ejectuar python prueba_entorno.py
 Asi como python app_gemini.py
